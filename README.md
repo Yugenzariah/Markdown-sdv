@@ -15,3 +15,7 @@
 [Click it you won't](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 `console.log("World of Nature")`
+
+- [X] Write me repo
+- [ ] Update repository 
+- [ ] Fix bug
