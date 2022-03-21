@@ -4,20 +4,26 @@
 ### Big Welcome to SDV
 **Keith Cayatoc**
 
-1. Item 1
-2. Item 2
-3. Item 3
+console.log("Things to do in SDV503") 
 
-- Item 1
-- Item 2
-- Item 3
+1. Familiarise myself around Visual Studio and JavaScript coding
+2. Read books about coding
+3. Watch coding videos 
+
+**Things to bring everyday**
+
+- Laptop
+- Phone
+- Wallet
 
 [Click it you won't](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 `console.log("World of Nature")`
 
-- [X] Write me repo
-- [ ] Update repository 
-- [ ] Fix bug
+- [X] First Week
+- [X] Second Week 
+- [X] Third Week
+- [X] Fourth Week
+- [ ] Fifth Week
 
 That is funny :joy:
