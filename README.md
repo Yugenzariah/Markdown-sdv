@@ -4,7 +4,7 @@
 ### Big Welcome to SDV
 **Keith Cayatoc**
 
-console.log("Things to do in SDV503") 
+`Things To Do in SDV503` 
 
 1. Familiarise myself around Visual Studio and JavaScript coding
 2. Read books about coding
