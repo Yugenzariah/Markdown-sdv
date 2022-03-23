@@ -6,7 +6,7 @@
 
 `Things To Do in SDV503` 
 
-1. Familiarise myself around Visual Studio and JavaScript coding
+1. Familiarize myself around Visual Studio and JavaScript coding
 2. Read books about coding
 3. Watch coding videos 
 
